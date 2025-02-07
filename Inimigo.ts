@@ -13,3 +13,5 @@ class Inimigo extends Personagem {
     }
   }
 }
+
+export default Inimigo
